@@ -1,9 +1,9 @@
 package cl.awakelabs.ejercicio19;
 
 public class ActivityModel {
-    public final int DEBIL =0;
-    public final int MEDIA =1;
-    public final int FUERTE =2;
+    public static final int DEBIL =0;
+    public static final int MEDIA =1;
+    public static final int FUERTE =2;
 
 
     public int validPass(String password) {
